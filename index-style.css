@@ -1,0 +1,11 @@
+.home {
+    border-top: 1px solid rgb(158, 156, 156);
+    border-right:1px solid rgb(158, 156, 156);
+    border-left: 1px solid rgb(158, 156, 156);
+    border-bottom: 1px solid rgb(218, 216, 216);
+    z-index: 0;
+}
+
+.content {
+    z-index: 1;
+}
